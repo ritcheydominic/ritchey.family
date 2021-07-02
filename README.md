@@ -1,2 +1,2 @@
-# www.ritchey.family
+# ritchey.family
  Landing page for the Ritchey family domain
